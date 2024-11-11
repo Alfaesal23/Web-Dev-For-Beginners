@@ -4,21 +4,24 @@
 > Nota de esboço por [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Questionário de Pré-Palestra
-[Questionário de Pré-Palestra](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/13)
+[Questionário de Pré-Palestra](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/13)
 
 Esta lição cobre os conceitos básicos do JavaScript, a linguagem que proporciona interactividade na web. Nesta lição, aprenderá sobre arrays e loops, que são usados para manipular dados.
 
-[![Arrays](https://img.youtube.com/vi/1U4qTyq02Xw/0.jpg)](https://youtube.com/watch?v=1U4qTyq02Xw "Arrays")
-[![Loops](https://img.youtube.com/vi/Eeh7pxtTZ3k/0.jpg)](https://www.youtube.com/watch?v=Eeh7pxtTZ3k "Laços")
+[![Arrays](https://img.youtube.com/vi/rlvD4Umw37U/0.jpg)](https://youtube.com/watch?v=rlvD4Umw37U "Arrays")
+
+[![Loops](https://img.youtube.com/vi/J2X-olc3Z6Y/0.jpg)](https://www.youtube.com/watch?v=J2X-olc3Z6Y "Laços")
+
 > 🎥 Clique na imagem acima para um vídeo sobre arrays e loops.
 
-> Pode seguir esta lição em [Microsoft Aprender](https://docs.microsoft.com/en-us/learn/modules/web-development-101-arrays/?WT.mc_id=academic-13441-cxa)!
+> Pode seguir esta lição em [Microsoft Aprender](https://docs.microsoft.com/learn/modules/web-development-101-arrays/?WT.mc_id=academic-77807-sagibbon)!
+
 ## Arrays
 Trabalhar com dados é uma tarefa comum para qualquer língua, e é uma tarefa muito mais fácil quando os dados são organizados num formato estrutural, tal como as matrizes. Com arrays, os dados são armazenados numa estrutura semelhante a uma lista. Uma grande vantagem dos arrays é que se pode armazenar diferentes tipos de dados numa única matriz.
 
 ✅ Os arrays estão à nossa volta! Consegue pensar num exemplo da vida real de uma matriz, tal como uma matriz de painéis solares?
 
-A sintaxe de uma matriz é um par de parênteses rectos.
+A sintaxe de uma matriz é um par de colchetes.
 
 ```javscript
 let myArray = [];
@@ -30,7 +33,7 @@ Esta é uma matriz vazia, mas as matrizes podem ser declaradas já povoadas com 
 let iceCreamFlavors = ["Chocolate", "Strawberry", "Vanilla", "Pistachio", "Rocky Road"];
 ```
 
-Aos valores da matriz é atribuído um valor único chamado **índice**, um número inteiro que é atribuído com base na sua distância desde o início da matriz. No exemplo acima, o valor da string "Chocolate" tem um índice de 0, e o índice de "Rocky Road" é 4. Use o índice com parênteses rectos para recuperar, alterar, ou inserir valores da array.
+Aos valores da matriz é atribuído um valor único chamado **índice**, um número inteiro que é atribuído com base na sua distância desde o início da matriz. No exemplo acima, o valor da string "Chocolate" tem um índice de 0, e o índice de "Rocky Road" é 4. Use o índice com colchetes para recuperar, alterar, ou inserir valores da array.
 
 ✅ Surpreende-o que as arrays comecem pelo índice zero? Em algumas linguagens de programação, os índices começam em 1. Há uma história interessante em torno disto, que pode [ler na Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering).
 
@@ -95,7 +98,7 @@ while (i < 10) {
 }
 ```
 
-✅ Porque escolheria um para loop vs. um loop de tempo? Os 17K espectadores tinham a mesma pergunta sobre o StackOverflow, e algumas das opiniões [pode ser interessante para si](https://stackoverflow.com/questions/39969145/while-loops-vs-for-loops-in-javascript).
+✅ Porque escolheria um para loop vs. um loop de tempo? Os 17K espectadores tinham a mesma pergunta sobre o StackOverflow, e algumas das opiniões [pode ser interessante para você](https://stackoverflow.com/questions/39969145/while-loops-vs-for-loops-in-javascript).
 
 ## Laços e Arrays
 
@@ -118,7 +121,7 @@ for (let i = 0; i < iceCreamFlavors.length; i++) {
 Existem outras formas de looping sobre arrays que não são para e enquanto se faz loops. Existem [forEach](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for...of), and [map](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Reescreva o seu laço de matriz usando uma destas técnicas.
 
 ## Questionário de pós-publicidade
-[Questionário de pós-publicidade](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/14)
+[Questionário de pós-publicidade](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/14)
 
 
 ## Revisão e Auto-estudo

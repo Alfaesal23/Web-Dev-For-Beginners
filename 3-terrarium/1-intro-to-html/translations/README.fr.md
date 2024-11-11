@@ -5,7 +5,7 @@
 
 ## Quiz préalable
 
-[Quiz préalable](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/15?loc=fr)
+[Quiz préalable](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/15?loc=fr)
 
 ### Introduction
 
@@ -17,7 +17,7 @@ Dans cette leçon, nous allons utiliser le HTML pour mettre en page le "squelett
 
 Sur votre ordinateur, créez un dossier appelé "terrarium" et, à l'intérieur, un fichier appelé "index.html". Vous pouvez le faire dans Visual Studio Code après avoir créé votre dossier terrarium en ouvrant une nouvelle fenêtre VS Code, en cliquant sur "Ouvrir le dossier" et en naviguant vers votre nouveau dossier. Cliquez sur le petit bouton "file" dans le panneau de l'explorateur et créez le nouveau fichier :
 
-![explorer in VS Code](images/vs-code-index.png)
+![explorer in VS Code](../images/vs-code-index.png)
 
 Ou alors :
 
@@ -54,7 +54,7 @@ Ajoutez ces lignes en haut de votre fichier `index.html` :
 
 ## La "tête" du document
 
-La zone "head" du document HTML contient des informations essentielles sur votre page Web, également appelées [métadonnées] (https://developer.mozilla.org/docs/Web/HTML/Element/meta). Dans notre cas, nous indiquons au serveur web auquel cette page sera envoyée pour être rendue, ces quatre choses :
+La zone "head" du document HTML contient des informations essentielles sur votre page Web, également appelées [métadonnées](https://developer.mozilla.org/docs/Web/HTML/Element/meta). Dans notre cas, nous indiquons au serveur web auquel cette page sera envoyée pour être rendue, ces quatre choses :
 
 -   le titre de la page
 -   les métadonnées de la page dont :
@@ -75,7 +75,7 @@ Ajoutez un bloc "head" à votre document, entre les balises d'ouverture et de fe
 </head>
 ```
 
-✅ Que se passerait-il si vous définissiez une métabalise viewport comme ceci : `<meta name="viewport" content="width=600">`? En savoir plus sur le [viewport](https://developer.mozilla.org/docs/Mozilla/Mobile/Viewport_meta_tag).
+✅ Que se passerait-il si vous définissiez une métabalise viewport comme ceci : `<meta name="viewport" content="width=600">`? En savoir plus sur le [viewport](https://developer.mozilla.org/docs/Web/HTML/Viewport_meta_tag).
 
 ---
 
@@ -219,15 +219,15 @@ Il existe quelques "vieilles" balises sauvages en HTML avec lesquelles il est en
 
 ## Quiz de validation des connaissances
 
-[Quiz de validation des connaissances](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/16?loc=fr)
+[Quiz de validation des connaissances](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/16?loc=fr)
 
 ## Révision et autoformation
 
 Le HTML est le système de blocs de construction qui a contribué à faire du Web ce qu'il est aujourd'hui. Apprenez-en un peu plus sur son histoire en étudiant certaines balises anciennes et nouvelles. Pouvez-vous comprendre pourquoi certaines balises ont été supprimées et d'autres ajoutées ? Quelles balises pourraient être introduites à l'avenir ?
 
-Pour en savoir plus sur la création de sites pour le web et les appareils mobiles, consultez le site [Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa).
+Pour en savoir plus sur la création de sites pour le web et les appareils mobiles, consultez le site [Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-77807-sagibbon).
 
 
 ## Exercice
 
-[Pratiquez votre HTML : Construisez une maquette de blog](assignment.md)
+[Pratiquez votre HTML : Construisez une maquette de blog](assignment.fr.md)
