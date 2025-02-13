@@ -2,11 +2,11 @@
 
 这节课涵盖了编程语言的基础知识，涉及到的内容适用于如今大多数现代编程语言。在“工具介绍”部分，你会了解到一些对开发者很有用的软件。
 
-![Intro Programming](/sketchnotes/webdev101-programming.png)
+![Intro Programming](../../../sketchnotes/webdev101-programming.png)
 > 涂鸦笔记作者：[Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## 课前小测
-[课前小测](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/1?loc=zh_cn)
+[课前小测](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/1?loc=zh_cn)
 
 ## 大纲
 
@@ -31,7 +31,7 @@
 
 编程语言有着不同的形式，也可能用于不同的目的。比如 JavaScript 主要用于 Web 应用，而 Bash 则主要用于操作系统。
 
-对于设备来说看，解释*低级语言（low level languages）*的指令一般会比解释*高级语言（high level languages）*的指令需要更少的步骤。然而，高级语言因为其可读性和兼容性会更加常用。JavaScript 就是一种高级语言。
+对于设备来说看，解释 *低级语言（low level languages）* 的指令一般会比解释 *高级语言（high level languages）* 的指令需要更少的步骤。然而，高级语言因为其可读性和兼容性会更加常用。JavaScript 就是一种高级语言。
 
 下面的代码展示了高级语言（以 JavaScript 为例）和低级语言（以 ARM 汇编代码为例）的区别：
 
@@ -124,7 +124,7 @@ back add r0,r1
 
 #### 主流浏览器和 DevTools
 
-- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium?WT.mc_id=academic-13441-cxa)
+- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/?WT.mc_id=academic-77807-sagibbon)
 - [Chrome](https://developers.google.com/web/tools/chrome-devtools/)
 - [Firefox](https://developer.mozilla.org/docs/Tools)
 
@@ -140,22 +140,22 @@ back add r0,r1
 
 #### Windows
 
-- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7?WT.mc_id=academic-13441-cxa) 💻
-- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa) (即 CMD) 💻
-- [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7/?WT.mc_id=academic-77807-sagibbon) 💻
+- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands/?WT.mc_id=academic-77807-sagibbon) (即 CMD) 💻
+- [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-77807-sagibbon)
 - [mintty](https://mintty.github.io/)
   
 #### MacOS
 
 - [Terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) 💻
 - [iTerm](https://iterm2.com/)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos/?view=powershell-7&WT.mc_id=academic-77807-sagibbon)
 
 #### Linux
 
 - [Bash](https://www.gnu.org/software/bash/manual/html_node/index.html) 💻
 - [KDE Konsole](https://docs.kde.org/trunk5/en/konsole/konsole/index.html)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7?WT.mc_id=academic-13441-cxa)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux/?view=powershell-7&WT.mc_id=academic-77807-sagibbon)
 
 #### 常用命令行工具
 
@@ -183,7 +183,7 @@ back add r0,r1
 比较一些编程语言。JavaScript 和 Java 相互之间有什么独特的特征？COBOL 和 Go 之间呢？
 
 ## 课后小测
-[课后小测](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/2?loc=zh_cn)
+[课后小测](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/2?loc=zh_cn)
 
 ## 复习 & 自学
 

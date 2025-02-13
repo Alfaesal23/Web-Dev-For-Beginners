@@ -1,11 +1,17 @@
 # Terrarium Project Part 1: Introduction to HTML
 
-![Introduction to HTML](/sketchnotes/webdev101-html.png)
+![Introduction to HTML](../../sketchnotes/webdev101-html.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/15)
+[Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/15)
+
+
+> Check out video
+
+> 
+> [![Git and GitHub basics video](https://img.youtube.com/vi/1TvxJKBzhyQ/0.jpg)](https://www.youtube.com/watch?v=1TvxJKBzhyQ)
 
 ### Introduction
 
@@ -75,7 +81,7 @@ Add a 'head' block to your document in between the opening and closing `<html>` 
 </head>
 ```
 
-✅ What would happen if you set a viewport meta tag like this: `<meta name="viewport" content="width=600">`? Read more about the [viewport](https://developer.mozilla.org/docs/Mozilla/Mobile/Viewport_meta_tag).
+✅ What would happen if you set a viewport meta tag like this: `<meta name="viewport" content="width=600">`? Read more about the [viewport](https://developer.mozilla.org/docs/Web/HTML/Viewport_meta_tag).
 
 ---
 
@@ -217,13 +223,13 @@ There are some wild 'older' tags in HTML that are still fun to play with, though
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/16)
+[Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/16)
 
 ## Review & Self Study
 
 HTML is the 'tried and true' building block system that has helped build the web into what it is today. Learn a little about its history by studying some old and new tags. Can you figure out why some tags were deprecated and some added? What tags might be introduced in the future?
 
-Learn more about building sites for the web and mobile devices at [Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa).
+Learn more about building sites for the web and mobile devices at [Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-77807-sagibbon).
 
 
 ## Assignment

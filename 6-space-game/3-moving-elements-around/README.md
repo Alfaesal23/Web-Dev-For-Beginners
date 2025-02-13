@@ -2,7 +2,7 @@
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/33)
+[Pre-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/33)
 
 Games aren't much fun until you have aliens running around on screen! In this game, we will make use of two types of movements:
 
@@ -30,7 +30,7 @@ ctx.fillStyle = "black";
 ctx.drawImage(heroImg, hero.x, hero.y);
 ```
 
-✅ Can you think of a reason why redrawing your hero many frames per second might accrue performance costs? Read about [alternatives to this pattern](https://www.html5rocks.com/en/tutorials/canvas/performance/).
+✅ Can you think of a reason why redrawing your hero many frames per second might accrue performance costs? Read about [alternatives to this pattern](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Optimizing_canvas).
 
 ## Handle keyboard events
 
@@ -377,7 +377,7 @@ As you can see, your code can turn into 'spaghetti code' when you start adding f
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/34)
+[Post-lecture quiz](https://ashy-river-0debb7803.1.azurestaticapps.net/quiz/34)
 
 ## Review & Self Study
 

@@ -1,5 +1,5 @@
 {
-	"name": "ml-for-beginners",
+	"name": "web-dev-for-beginners",
 	"version": "1.0.0",
 	"description": "Web Dev for Beginners - A Curriculum",
 	"main": "index.js",
@@ -16,7 +16,7 @@
 		"development",
 		"curriculum"
 	],
-	"author": "Jen Looper and team",
+	"author": "Microsoft Cloud Advocates",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/microsoft/Web-Dev-For-Beginners/issues"
